@@ -1,0 +1,38 @@
+[
+    {   "id": 1,
+        "name": "Kahim Mia",
+        "desiganation": "Salsman",
+        "address": "Atla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Joseph_Salsmans_%281873%E2%80%931944%29.png/220px-Joseph_Salsmans_%281873%E2%80%931944%29.png"    
+    },
+    {   "id": 2,
+        "name": "Manik Sorder",
+        "desiganation": "Dokan",
+        "address": "Shohata",
+        "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {   "id": 3,
+        "name": "Sabbir Mobile",
+        "desiganation": "Dokan",
+        "address": "Kachaite",
+        "image": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_0.jpg"
+    },
+    {   "id": 4,
+        "name": "Kamrul Bai",
+        "desiganation": "Flaxi",
+        "address": "Vadeshora",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxDrCR5SfO2zzeBNLF9U9xbjlC8-ToAA68g&usqp=CAU"
+    },
+    {   "id": 5,
+        "name": "Motin Sorker",
+        "desiganation": "Dokan",
+        "address": "Shohata",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4gZGp6eGFTUXlDvYXoi837M4b_vsvWJtmg&usqp=CAU"
+    },
+    {   "id": 6,
+        "name": "Kabir Molla ",
+        "desiganation": "Van Gare",
+        "address": "Machihata",
+        "image": "https://media.gettyimages.com/photos/profile-shot-of-beautiful-young-man-shot-on-studio-picture-id1019896234?s=612x612"
+    }
+]
